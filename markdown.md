@@ -6,6 +6,14 @@ function saludo() {
 	console.log("Hola, mundo!");
 }
 saludo();```
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
+## Lista ordenada
+1. Elemento 
+2. Elemento 
+3. Elemento 
+## Lista sin ordenar
+* Elemento
+* Elemento 
+* Elemento
+Pincha [aqui](https://classroom.com) para dirigirte a classroom.
+
+
