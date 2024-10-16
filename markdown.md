@@ -10,5 +10,7 @@ Esto es un parrafo con **negrita** , *cursiva* y `codigo` .
 * Elemento 
 * Elemento
 Pincha [aqui](https://classroom.com) para dirigirte a classroom.
-
+| Campo 1 | Campo 2 |
+|---------|---------|
+| Dato 1  | Dato 2  |
 
