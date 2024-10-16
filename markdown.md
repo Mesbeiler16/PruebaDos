@@ -5,6 +5,7 @@ Esto es un parrafo con **negrita** , *cursiva* y `codigo` .
 function saludo() {
 	console.log("Hola, mundo!");
 }
-saludo();
-
-
+saludo();```
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
